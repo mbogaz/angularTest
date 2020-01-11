@@ -1,0 +1,32 @@
+.blue {
+  background: #019daa;
+}
+
+.row1 {
+  height: 10%;
+  overflow: hidden;
+  padding-left: 10%;
+  padding-right: 10%;
+}
+.row2 {
+  height: 5%;
+  overflow: hidden;
+}
+.row3 {
+  height: 75%;
+  overflow: hidden;
+}
+.row4 {
+  height: 10%;
+  overflow: hidden;
+}
+
+.container-fluid {
+  height: 100%;
+  padding-left: 0px;
+  padding-right: 0px;
+}
+
+.logo {
+  background:transparent url('image/logo.png') no-repeat center
+}
